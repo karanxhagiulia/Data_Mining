@@ -10,11 +10,10 @@
 
 - Python Funzioni ed esercizi [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Lezione01DataMining/blob/main/Python/Funzioni_Classi_python.ipynb)
 
-- Matplotlib esercizi [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Lezione01DataMining/blob/main/Esercizi_Matplotlib_Karanxha_Giulia.ipynb)
+- Matplotlib esercizi [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Lezione01DataMining/blob/main/Matplotlib/Esercizi_Matplotlib_Karanxha_Giulia.ipynb)
 
-- Come utilizzare MarkDown in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Lezione01DataMining/blob/main/Markdown_Colab.ipynb)
+- Matplotlib 01 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Lezione01DataMining/blob/main/Matplotlib/01Matplotlib.ipynb)
 
-- Matplotlib 01 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiuliaLezione01DataMining/blob/main/Matplotlib.ipynb)
+- Matplotlib 02 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Lezione01DataMining/blob/main/Matplotlib/02_Matplotlib.ipynb)
 
-- Matplotlib 02 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Lezione01DataMining/blob/main/02_Matplotlib.ipynb)
-
+- Come utilizzare MarkDown in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Lezione01DataMining/blob/main/Matplotlib/Esercizi_Matplotlib_Karanxha_Giulia.ipynb)
