@@ -21,6 +21,15 @@
 
 - Matplotlib 02 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Lezione01DataMining/blob/main/Matplotlib/02_Matplotlib.ipynb)
 
+
+## Pandas
+
+- DataFrame [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Data_Mining/blob/main/Pandas/DataFrame.ipynb)
+
+- Esercizio IRIS [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Data_Mining/blob/main/Pandas/IRIS.ipynb)
+
+
+
 ### Markdown in Colab
 
 - Come utilizzare MarkDown in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Lezione01DataMining/blob/main/Matplotlib/Esercizi_Matplotlib_Karanxha_Giulia.ipynb)
