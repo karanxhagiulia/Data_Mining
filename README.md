@@ -6,7 +6,7 @@
 
 - Intro a Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Lezione01DataMining/blob/main/Python/01_intro.ipynb)
 
-- Python Funzioni ed esercizi [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Lezione01DataMining/blob/main/Python/Funzioni_Classi_python.ipynb)
+- Python Funzioni ed esercizi [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Data_Mining/blob/main/Python/Funzioni_Classi_Cicli_python.ipynb)
 
 ### Come utilizzare GitHub
 
