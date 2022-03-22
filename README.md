@@ -14,15 +14,15 @@
 
 ## ML Flow
 
--Machine Learning Flow modello da usare come base [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Data_Mining/blob/main/Pandas/Flow_ML.ipynb)
+- Machine Learning Flow modello da usare come base [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Data_Mining/blob/main/Pandas/Flow_ML.ipynb)
 
--Machine Learning Flow modello con features definite da noi da usare come base [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Data_Mining/blob/main/Pandas/Features_Flow_ML.ipynb)
+- Machine Learning Flow modello con features definite da noi da usare come base [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Data_Mining/blob/main/Pandas/Features_Flow_ML.ipynb)
 
 ## IRIS 
 
--IRIS data con appunti [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Data_Mining/blob/main/Pandas/IRIS_appunti_teoria.ipynb)
+- IRIS data con appunti [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Data_Mining/blob/main/Pandas/IRIS_appunti_teoria.ipynb)
 
--IRIS completo [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Data_Mining/blob/main/Pandas/IRIS_Data.ipynb)
+- IRIS completo [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Data_Mining/blob/main/Pandas/IRIS_Data.ipynb)
 
 
 
